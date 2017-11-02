@@ -1,4 +1,4 @@
-#CS455 Networking programming assignment Mini Chat Room
+# CS455 Networking programming assignment Mini Chat Room
 
 ## Chat-App:
 • Designed a multi-threaded program simulating a chat room with broadcast and
